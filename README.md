@@ -1,1 +1,1 @@
-# Modern Fullstack social media app PinEmpire.
+Login using GoogleAuth to make an account.
